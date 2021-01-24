@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_sonilanlar"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:title="Son İlanlar"/>
+    <item
+        android:id="@+id/nav_ilanara"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="İlan Ara" />
+    <item
+    android:id="@+id/nav_ilanver"
+    android:icon="@drawable/ic_baseline_add_circle_24"
+    android:title="İlan Ver" />
+    <item
+        android:id="@+id/nav_mesajlar"
+        android:icon="@drawable/ic_baseline_message_24"
+        android:title="Mesajlar" />
+    <item
+        android:id="@+id/nav_profilim"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profilim" />
+</menu>
